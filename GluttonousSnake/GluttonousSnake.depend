@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1567174574 source:e:\cppcode\project\gluttonoussnake\main.cpp
+	<iostream>
+	"wall.h"
+	"snake.h"
+	"food.h"
+	<conio.h>
+	<windows.h>
+	<ctime>
+
+1567048756 e:\cppcode\project\gluttonoussnake\wall.h
+	<iostream>
+
+1567048587 source:e:\cppcode\project\gluttonoussnake\wall.cpp
+	"wall.h"
+
+1567074492 source:e:\cppcode\project\gluttonoussnake\snake.cpp
+	"snake.h"
+
+1567074371 e:\cppcode\project\gluttonoussnake\snake.h
+	"wall.h"
+	"food.h"
+
+1567070720 e:\cppcode\project\gluttonoussnake\food.h
+	"wall.h"
+
+1567071192 source:e:\cppcode\project\gluttonoussnake\food.cpp
+	"food.h"
+
